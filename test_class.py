@@ -6,3 +6,7 @@ class TestClass:
     def test_two(self):
         x = "hello"
         assert "l" in x
+
+    def test_three(self):
+        my = "romd"
+        assert "d" in my
